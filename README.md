@@ -44,6 +44,13 @@ You: I want to hack a system
 [ALERT] Suspicious activity detected: I want to hack a system
 ```
 
+### Screenshots
+
+#### Suspicious Activity Detected
+Chatbot Alert Example ![image](https://github.com/user-attachments/assets/d05a9229-cfc4-4ae5-b346-11c0f5b393fe)
+
+
+
 ## Viewing Encrypted Logs
 Chat messages are encrypted in `chatbot_logs.txt`. To decrypt logs, add this function to the script:
 ```python
